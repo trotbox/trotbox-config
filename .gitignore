@@ -1,0 +1,11 @@
+# Logs
+logs
+.trash
+cache
+crash-reports
+
+# Cache
+usercache.json
+version_history.json
+wepif.yml
+
