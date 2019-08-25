@@ -1,13 +1,15 @@
 # Jars
 /*.jar
+/plugins/*.jar
+/plugins/*.dis
 
 # Logs
 logs
 .trash
-cache
 crash-reports
 
 # Cache
+cache
 usercache.json
 version_history.json
 wepif.yml
